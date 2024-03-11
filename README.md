@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KyeraFrancis&theme=onedark" alt="KyeraFrancis" /></a> </p>
 
 - 🔭 I’m currently working on **Client Task (Databricks/Tableau/Python)**
-- 🌱 I’m currently learning **DataBricks**
+- 🌱 I’m currently learning **Databricks**
 - 💬 Ask me about **Data Analytics**
 - 📫 How to reach me **KyeraFrancis@gmail.com**
 - 👨‍💻 All of my projects are available at **github.com/KyeraFrancis**
