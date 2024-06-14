@@ -1,6 +1,6 @@
 ##<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Key</h1>
-<h3 align="center">📊 Data Scientist | 👩🏾‍💻'Girl Coder' | 📚 MBA/Data Science | 🌆 Austin Area | 🇺🇸 US Army Veteran | Secret Security Clearance </h3>
+<h3 align="center">📊 Data Scientist | 👩🏾‍💻'Girls can code' | 📚 MBA/Data Science | 🌆 Austin Area | US Army Veteran | Secret Security Clearance </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KyeraFrancis&label=Profile%20views&color=0e75b6&style=flat" alt="KyeraFrancis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KyeraFrancis&theme=onedark" alt="KyeraFrancis" /></a> </p>
